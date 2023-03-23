@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alex-kudryashov
 - 👀 I’m interested in web development
-- 📫 How to reach me: alex-kudryashovv@yandex.ru
+- 📫 How to reach me: https://t.me/nodependency
